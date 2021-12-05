@@ -1,0 +1,14 @@
+li a {
+    color: #e1b06a;
+}
+
+body {
+    background-image: url('images/background.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+h1 {
+    color: #3a58c2;
+    text-align: center;
+}
